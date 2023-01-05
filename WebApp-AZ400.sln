@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp-AZ400", "WebApp-AZ400\WebApp-AZ400.csproj", "{B5B7128A-8344-4843-98DD-36F078347368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B7128A-8344-4843-98DD-36F078347368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B7128A-8344-4843-98DD-36F078347368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B7128A-8344-4843-98DD-36F078347368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B7128A-8344-4843-98DD-36F078347368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3C8F32-DBA7-4E89-A28E-D1F4E2214A40}
+	EndGlobalSection
+EndGlobal
